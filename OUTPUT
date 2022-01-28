@@ -1,0 +1,603 @@
+1. Internet :
+
+***********
+*MAIN MENU*
+***********
+Check out your daily data usage here!
+
+enter data in mega bytes : 
+100
+enter time in minutes : 
+190
+enter time in hours : 
+5
+enter time in months : 
+1
+Your data usage per minutes is 0.53
+Your data usage per hours is 20.00
+Your data usage per months is 100.00
+Your total data usage is 120.53
+Your average amount of data usage everyday is 40.18
+
+*******************************************************************************
+Here are some extra information!
+You can check how much data have been used for various kind of activities.
+Try to check it out! 
+*******************************************************************************
+Do you want extra informations? [Y/N] 
+y
+Here are some activities for you to check out.
+Do you want to know the amount of data usage for uploading and downloading photo?[Y/N] y
+Enter the amount of photo : 
+100
+Your data usage to upload and dowload photo is 500.00
+
+Do you want to know the amount of data usage for streaming videos?[Y/N] y
+Enter the amount of  hour for standard definition video : 
+2
+your data usage to stream standard definition video is 1500.00
+
+Enter the amount of hour for high definition video : 
+2
+Your data usage to stream high definition video is 4000.00
+
+Do you want to know the amount of data usage for listening to songs? [Y/N]y
+Enter the total amount of every 4 minutes for songs : 
+32
+Your data usage to listen to songs is 208.00
+
+Do you want to know the amount of data usage for sending emails?[Y/N] y
+Enter the amount of email : 
+2
+Your data usage to send emails is 0.04
+
+Do you want to know the amount of data usage for web surfing?[Y/N]y
+Enter the amount of hours for web surfing : 
+9
+Your data usage for websurfing is 162.00
+
+Do you want to know the amount of data usage for online gaming?[Y/N] y
+Enter the amount of hours for online gaming : 
+24
+Your data usage for online gaming is 480.00
+
+Do you want to know the amount of data usage for social networking?[Y/N] y
+Enter the amount of hours for social networking : 
+12
+Your data usage for social networking is 612.00
+*********************************************************
+Here are the list of data usage for the activities above.
+*********************************************************
+Photo: 500.00
+Standard definition video: 1500.00
+High definition video: 4000.00
+Song: 208.00
+Email: 0.04
+Web surfing: 162.00
+Online gaming: 480.00
+Social networking: 612.00
+
+Try Again? [Y/N] 
+n
+Thankyou!
+
+2. Mobile Phone :
+
+Please enter the following information
+Name: TOH 
+IC: 010826010539
+Phone number: 0163672588
+--------------------------------------------------------------------------------
+                     **WELCOME DREAM MOBILE SHOP***
+--------------------------------------------------------------------------------
+We have these processor!
+1. Snapdragon 888 RM 2000.0
+2. Snapdragon 855 RM 800.0
+3. Exynos 2100    RM 800.0
+4. Kirin 9000     RM 1200.0
+Please select your mobile phone's processor: 1
+You choose Snapdragon 888 and the price processor is RM 2000.0
+
+We have these Ram!
+1. 4 GB RM 200.0
+2. 6 GB RM 400.0
+3. 8 GB RM 500.0
+Please select your mobile phone's ram: 1
+You choose 4 GB and the priceram is RM 200.0
+
+We have these storage!
+1. 32 GB RM 300.0
+2. 64 GB RM 400.0
+3. 128 GB RM 600.0
+3. 256 GB RM 800.0
+Please select your mobile phone's storage: 1
+You choose 32 GB and the pricestorage is RM 300.0
+
+We have these camera!
+1. 16 MP RM 100.0
+2. 32 MP RM 200.0
+3. 64 MP RM 300.0
+Please select your mobile phone's camera: 2
+You choose 32 MP and the pricecamera is RM 200.0
+
+We have these screen technology!
+1. AMOLED RM 1000.0
+2. IPS RM 700.0
+Please select your mobile phone's screen: 1
+You choose AMOLED and the pricescreen is RM 1000.0
+
+We have these battery!
+1. 4300 mAh RM 100.0
+2. 5000 mAh RM 200.0
+3. 6400 mAh RM 300.0
+Please select your mobile phone's battery: 3
+You choose 6400 mAh and the pricebattery is RM 300.0
+
+Do you want to purchase earphone for RM 25? YES(Y) or NO(N)1
+Please enter the correct word!
+
+Do you want to purchase earphone for RM 25? YES(Y) or NO(N)y
+Thank you! You add on earphone completely!
+
+Do you want to purchase screen protector for RM 10? YES(Y) or NO(N)y
+Thank you! You add on screen protector completely!
+
+Do you want to purchase powerbank for RM 50? YES(Y) or NO(N)n
+Alright thank you.
+
+Do you want to purchase phone case for RM 10? YES(Y) or NO(N)y
+Thank you! You add on phone case completely!
+
+What is the place you live and we can delivery to you.South(S) or North(N)s
+Thank you! We will delivery to you!
+The total price is : RM 4095.00
+
+We will give you 10% discount!!!
+Discount                   : RM 409.50
+Total Price after discount : RM 3685.50
+
+Please choose your payment types
+Please Enter [C] as Cash or [I] as Instalment
+i
+   ________________________
+  |      Instalment for 12 months' duration = 4% interest rate        |
+  |      Instalment for 24 months' duration = 5% interest rate        | 
+  |________________________|
+Please enter [12] for 12 months' duration, [24] for 24 months' duration
+24
+You choose 24 months' duration.
+Total instalment amount  : RM 204.75
+Total balance should pay : RM 4299.75
+Total should pay monthly : RM 179.16
+Thank you!!!
+This is your receipt
+
+--------------------------------------------------------------------------------
+                            **RECETPT***
+--------------------------------------------------------------------------------
+                       **DREAM MOBILE SHOP***
+                   **CONTACT NUMBER: 016-3672588 ***
+Consumer Detail
+Name         : TOH 
+IC           : 010826010539
+Phone Number : 0163672588
+
+Total Price after discount : RM 4095.00
+Total instalment amount    : RM 204.75
+Total balance should pay   : RM 4299.75
+Total should pay monthly   : RM 179.16
+--------------------------------------------------------------------------------
+                        **THANK YOU!!! PLEASE COME AGAIN***
+--------------------------------------------------------------------------------
+
+3. Laptop :
+
+*****==WELCOME TO THE DEPRECIATION SYSTEM!!==*******
+
+————————————————————————————————————————————————————————————————————————————
+------------------------------------ASUS------------------------------------
+————————————————————————————————————————————————————————————————————————————
+Enter the initial purchase price of laptop(RM): 
+5000
+Enter the number of years: 
+5
+Enter depreciation percentage(%): 
+15
+Enter the amount of laptop: 
+35
+
+Before depreciation: RM175000.00
+After depreciation : RM77648.43
+————————————————————————————————————————————————————————————————————————————
+------------------------------------APPLE------------------------------------
+————————————————————————————————————————————————————————————————————————————
+Enter the initial purchase price of laptop(RM): 
+6000
+Enter the number of years: 
+4
+Enter depreciation percentage(%): 
+10
+Enter the amount of laptop: 
+30
+
+Before depreciation: RM180000.00
+After depreciation : RM118098.00
+————————————————————————————————————————————————————————————————————————————
+------------------------------------ACER------------------------------------
+————————————————————————————————————————————————————————————————————————————
+Enter the initial purchase price of laptop(RM): 
+4500
+Enter the number of years: 
+5
+Enter depreciation percentage(%): 
+20
+Enter the amount of laptop: 
+40
+
+Before depreciation: RM180000.00
+After depreciation : RM58982.40
+————————————————————————————————————————————————————————————————————————————
+------------------------------------HP------------------------------------
+————————————————————————————————————————————————————————————————————————————
+Enter the initial purchase price of laptop(RM): 
+4000
+Enter the number of years: 
+5
+Enter depreciation percentage(%): 
+25
+Enter the amount of laptop: 
+45
+
+Before depreciation: RM180000.00
+After depreciation : RM42714.84
+————————————————————————————————————————————————————————————————————————————
+------------------------------------DELL------------------------------------
+————————————————————————————————————————————————————————————————————————————
+Enter the initial purchase price of laptop(RM): 
+4000
+Enter the number of years: 
+5
+Enter depreciation percentage(%): 
+25
+Enter the amount of laptop: 
+50
+
+Before depreciation: RM200000.00
+After depreciation : RM47460.94
+
+————————————————————————————————————————————————————————————————————————————
+---------------------------TOTAL SALVAGE VALUE------------------------------
+————————————————————————————————————————————————————————————————————————————
+ASUS : 		RM77648.43
+APPLE: 		RM118098.00
+ACER : 		RM58982.40
+HP   : 		RM42714.84
+DELL : 		RM47460.94
+          	--------------
+Total  : 	RM361172.17
+          	--------------
+
+————————————————————————————————————————————————————————————————————————————
+--------------------------NEW LAPTOP INFORMATION----------------------------
+————————————————————————————————————————————————————————————————————————————
+
+THE NUMBER OF NEW LAPTOP SOLD: 
+200
+THE PRICE OF A NEW LAPTOP: 
+6500
+
+TOTAL PRICE OF ALL LAPTOP SOLD: RM1300000.00
+
+————————————————————————————————————————————————————————————————————————————
+---------------------------------INSTALMENT---------------------------------
+————————————————————————————————————————————————————————————————————————————
+
+----------------------------RULES FOR INSTALMENT----------------------------
+1. MAXIMUM LIMIT OF INSTALMENT PERIOD IS 10 YEARS
+2. CUSTOMER MAY PAY 5% INTEREST EACH YEAR
+3. CUSTOMER MUST PAY 20% DEPOSIT FOR INSTALMENT
+4. 1% PENALTY WILL BE CHARGED IF EXCEED THE INSTALMENT PERIOD
+
+DEPOSIT RECEIVED  : 	RM260000.00
+ACCOUNT RECEIVABLE: 	RM678827.83
+INSTALMENT PERIOD: 
+6
+Installment 1  : 	RM113137.97	Balance : 	RM565689.86 
+Installment 2  : 	RM113137.97	Balance : 	RM452551.89 
+Installment 3  : 	RM113137.97	Balance : 	RM339413.92 
+Installment 4  : 	RM113137.97	Balance : 	RM226275.94 
+Installment 5  : 	RM113137.97	Balance : 	RM113137.97 
+Installment 6  : 	RM113137.97	Balance : 	RM0.00 
+Interest per year: 	RM5656.90
+
+----------------------------RULES FOR CASHBACK------------------------------
+1. CUSTOMERS PAY BACK IN 2 YEARS TIME WILL GET 20% CASHBACK
+2. CUSTOMERS PAY BACK IN 3 YEARS TIME WILL GET 15% CASHBACK
+3. CUSTOMERS PAY BACK IN 4 YEARS TIME WILL GET 10% CASHBACK
+4. CUSTOMERS PAY BACK IN 5 YEARS TIME WILL GET 0% CASHBACK
+
+---------------------------------CALCULATION----------------------------------
+ENTER YEARS TAKEN TO PAYBACK: 
+3
+
+HE FOLLOWED THE 2ND RULE OF CASHBACK AND PAY BACK IN TIME
+CASHBACK IS GIVEN
+
+CASHBACK: 	10%
+CASH OUT : 	RM130000.00
+
+******==THANK YOU FOR USING THIS SYSTEM!!==*******
+
+4. Satellite :
+*********************************************
+* Personal Information Security System      *
+*********************************************
+* Please fill in this form.                 *
+*********************************************
+Name :
+Nur Syazwani
+Age :
+27
+Phone number :
+0136567342
+Email address :
+nursyazwani@gmail.com
+Password :
+563426
+*********************************************
+Personal Information Complete               *
+*********************************************
+**************************************************
+* Register                                       *
+**************************************************
+* Please fill in this form to create an account  *
+**************************************************
+Email
+Enter Email : 
+nursyazwani@gmail.com
+Enter your account password: 547853
+Your password is wrong! You have 2 chance.
+Enter your account password: 563426
+Your password is correct.
+*********************************************
+* Validation                                *
+*********************************************
+* Please submit this form                   *
+*********************************************
+Username : Wani
+Password
+Enter password :
+563426
+Keyword
+Enter Keyword :
+563426
+*********************************************
+Submit                                      *
+*********************************************
+*********************************************
+* Keyword and Identify                      *
+*********************************************
+Enter your Keywords : 656732
+*
+Invalid Keywords.
+Your keywords is wrong! You have only 2 chance. Please enter again: 
+563426
+Repeat Keywords 
+Enter keywords :
+563426
+*
+******************
+* Warning Text   *
+*****************
+Phone number :
+Email address :
+0136567342
+Warning Text : 
+Warning! Third-party wants to intrude on your data. Please be alert. Please click 'Yes' to block the action and protect your data. Stop it now!
+Yes
+Block and report.
+******************************
+* Threat                     *
+******************************
+Enter the number of x:
+1
+Hijack your usernames and passwords :
+1
+P1 = 15
+case 1
+end
+Total amount threat = 461
+Total amount probability = 15
+*************************************
+* Vulnerability                     *
+*************************************
+Broken authentication : 
+P7 = 15
+Cross-Site Scripting :
+P8 = 19
+Cross-Site Request Forgery :
+P9 = 17
+Security Misconfiguration :
+P10 = 22
+Total amount = 296
+Total amount = 73
+****************
+* Risk         *
+****************
+Risk = 6x4x88
+Risk = 2112
+
+5. TV :
+
+Welcome to Astro customer service!
+Enter your name:- 
+Intan Syamimi Saharim
+Enter your phone number(+60):- 
+0135715705
+
+Hello my dear customer Mr/Mrs Intan Syamimi Saharim
+I will provide the information related to Astro packages based on your preference.
+
+Enter 1 for Primary Pack
+Enter 2 for Entertainment Pack
+Enter 3 for Broadband Pack
+Enter 4 for Platinum Pack
+
+Enter your package number here:- 
+1
+	 ASTRO PRIMARY PACK
+*Price = RM 60.00
+*Installation fee = RM 99.00
+*24 months subscription contract
+*Up to 90+ Channels
+*Astro Go accessible
+*Support HD Channel
+*Free Ultrabox Decoder Set
+
+My dearest customers, we have provided some discount for you in conjuction with your first time purchased with Astro such as: 
+-10% FIRST MONTH PURCHASE DISCOUNT for every package 
+-15% WOW DISCOUNT(for customers who skip deposit and paid fully payment)
+Here is your payment detail based on your package selected:
+For your information, we offer two payment methods along with certain discount
+
+METHOD 1: DEPOSIT AND MONTHLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT
+
+ PACKAGE PRICE               = RM 60.0
+ INSTALLATION BILL           = RM 99.00 
+ ACTUAL  PRICE               = RM 1539.0
+ 10% FIRST MONTH DISCOUNT    = RM 6.0
+ TOTAL PRICE AFTER DISCOUNT  = RM 1533.0
+ DEPOSIT                     = RM 153.0
+ BALANCE                     = RM 1380.0
+ MONTHLY PAYMENT             = RM 60.0
+
+METHOD 2: FULLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT 
+
+ ACTUAL PRICE                                                                  = RM 1539.0
+ 10% FIRST MONTH DISCOUNT                                                      = RM 6.0
+ 15% WOW DISCOUNT                                                              = RM 229.95
+ TOTAL PRICE AFTER DISCOUNT                                                    = RM 1303.05
+
+Enter your package number here:- 
+2
+	 ASTRO ENTERTAINMENT PACK
+*Price = RM 90.00
+*Installation fee = RM 99.00
+*24 months subscription contract
+*Up to 105+ Channels
+*Astro Go accessible
+*Support HD Channel
+*Free Ultrabox Decoder Set
+
+My dearest customers, we have provided some discount for you in conjuction with your first time purchased with Astro such as: 
+-10% FIRST MONTH PURCHASE DISCOUNT for every package 
+-15% WOW DISCOUNT(for customers who skip deposit and paid fully payment)
+Here is your payment detail based on your package selected:
+For your information, we offer two payment methods along with certain discount
+
+METHOD 1: DEPOSIT AND MONTHLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT
+
+ PACKAGE PRICE               = RM 90.0
+ INSTALLATION BILL           = RM 99.00 
+ ACTUAL  PRICE               = RM 2259.0
+ 10% FIRST MONTH DISCOUNT    = RM 9.0
+ TOTAL PRICE AFTER DISCOUNT  = RM 2250.0
+ DEPOSIT                     = RM 180.0
+ BALANCE                     = RM 2070.0
+ MONTHLY PAYMENT             = RM 90.0
+
+METHOD 2: FULLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT 
+
+ ACTUAL PRICE                                                                  = RM 2259.0
+ 10% FIRST MONTH DISCOUNT                                                      = RM 9.0
+ 15% WOW DISCOUNT                                                              = RM 337.5
+ TOTAL PRICE AFTER DISCOUNT                                                    = RM 1912.5
+
+Enter your package number here:- 
+3
+	 ASTRO BROADBAND PACK
+*Price = RM 140.00
+*Installation fee = RM 99.00
+*24 months subscription contract
+*Up to 90+ Channels TV and Radio
+*Unlimited High Speed Internet
+*Astro Go accessible
+*Support HD Channel
+*Free Ultrabox Decoder Set, Modem and Router
+
+My dearest customers, we have provided some discount for you in conjuction with your first time purchased with Astro such as: 
+-10% FIRST MONTH PURCHASE DISCOUNT for every package 
+-15% WOW DISCOUNT(for customers who skip deposit and paid fully payment)
+Here is your payment detail based on your package selected:
+For your information, we offer two payment methods along with certain discount
+
+METHOD 1: DEPOSIT AND MONTHLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT
+
+ PACKAGE PRICE               = RM 140.0
+ INSTALLATION BILL           = RM 99.00 
+ ACTUAL  PRICE               = RM 3459.0
+ 10% FIRST MONTH DISCOUNT    = RM 14.0
+ TOTAL PRICE AFTER DISCOUNT  = RM 3445.0
+ DEPOSIT                     = RM 225.0
+ BALANCE                     = RM 3220.0
+ MONTHLY PAYMENT             = RM 140.0
+
+METHOD 2: FULLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT 
+
+ ACTUAL PRICE                                                                  = RM 3459.0
+ 10% FIRST MONTH DISCOUNT                                                      = RM 14.0
+ 15% WOW DISCOUNT                                                              = RM 516.75
+ TOTAL PRICE AFTER DISCOUNT                                                    = RM 2928.25
+
+Enter your phone number(+60):- 
+4
+
+Hello my dear customer Mr/Mrs rtg
+I will provide the information related to Astro packages based on your preference.
+
+Enter 1 for Primary Pack
+Enter 2 for Entertainment Pack
+Enter 3 for Broadband Pack
+Enter 4 for Platinum Pack
+
+Enter your package number here:- 
+4
+	 ASTRO PLATINUM PACK
+*Price = RM 195.00
+*Installation fee = RM 99.00
+*24 months subscription contract
+*Up to 145+ Channels
+*Astro Go accessible
+*Support UHD/4K Channel
+*Free Ultrabox Decoder Set
+
+My dearest customers, we have provided some discount for you in conjuction with your first time purchased with Astro such as: 
+-10% FIRST MONTH PURCHASE DISCOUNT for every package 
+-15% WOW DISCOUNT(for customers who skip deposit and paid fully payment)
+Here is your payment detail based on your package selected:
+For your information, we offer two payment methods along with certain discount
+
+METHOD 1: DEPOSIT AND MONTHLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT
+
+ PACKAGE PRICE               = RM 195.0
+ INSTALLATION BILL           = RM 99.00 
+ ACTUAL  PRICE               = RM 4779.0
+ 10% FIRST MONTH DISCOUNT    = RM 19.5
+ TOTAL PRICE AFTER DISCOUNT  = RM 4759.5
+ DEPOSIT                     = RM 274.5
+ BALANCE                     = RM 4485.0
+ MONTHLY PAYMENT             = RM 195.0
+
+METHOD 2: FULLY PAYMENT FOR 2 YEARS SUBSCRIPTION CONTRACT 
+
+ ACTUAL PRICE                                                                  = RM 4779.0
+ 10% FIRST MONTH DISCOUNT                                                      = RM 19.5
+ 15% WOW DISCOUNT                                                              = RM 713.925
+ TOTAL PRICE AFTER DISCOUNT                                                    = RM 4045.575
+
+Enter your package number here:- 
+5
+You entered the wrong number!
+
+THANK YOU FOR CHOOSING OUR SERVICE.WE HOPE THIS PROVIDE YOU ENOUGH INFORMATION AND HELP YOU MAKE YOUR DECISION.
+PLEASE CALL OUR ASTRO CENTRE TO MAKE FURTHER CONFIRMATION.
